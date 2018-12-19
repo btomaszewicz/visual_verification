@@ -1,0 +1,81 @@
+BUTTON_PRESSED[1]	BUTTON_PRESS_TIME[1]	DISPLAY_ON_TIME[1]	RESPONSE_TIME[1]	RESPONSE_ACCURACY[1]	visual	pic_category	correct	sentence	sentence_type	block	button_expected
+2	456633.00	453923.12	2709	correct	fig2_rev_7d8_28px.png	2	0	"B < A"	2	4	2
+4	465659.00	463639.23	2019	correct	fig2_3d4_42px.png	3	1	"B < A"	2	4	4
+4	473634.00	471922.12	1711	correct	fig2_rev_7d8_28px.png	2	1	"B > A"	1	4	4
+2	483830.00	479321.71	4508	correct	fig2_rev_9d10_42px.png	4	0	"B < A"	2	4	2
+4	493355.00	489721.15	3633	correct	fig2_7d8_42px.png	3	1	"B < A"	2	4	4
+4	501588.00	498870.65	2717	correct	fig2_1d2_28px.png	1	1	"B < A"	2	4	4
+2	509411.00	507036.86	2374	correct	fig2_3d4_42px.png	3	0	"B > A"	1	4	2
+4	517741.00	514753.11	2987	correct	fig2_rev_1d2_42px.png	4	1	"B > A"	1	4	4
+2	526575.00	523269.29	3305	correct	fig2_7d8_42px.png	3	0	"B > A"	1	4	2
+4	535182.00	532402.14	2779	correct	fig2_rev_5d6_42px.png	4	1	"B > A"	1	4	4
+2	543239.00	540301.69	2937	correct	fig2_rev_1d2_42px.png	4	0	"B < A"	2	4	2
+2	553150.00	548767.90	4382	correct	fig2_rev_3d4_28px.png	2	0	"B < A"	2	4	2
+4	563225.00	558434.02	4790	correct	fig2_5d6_28px.png	1	1	"B < A"	2	4	4
+2	572169.00	568850.13	3318	correct	fig2_rev_5d6_42px.png	4	0	"B < A"	2	4	2
+4	579614.00	577499.65	2114	correct	fig2_rev_3d4_28px.png	2	1	"B > A"	1	4	4
+2	587334.00	584565.94	2768	correct	fig2_1d2_28px.png	1	0	"B > A"	1	4	2
+2	597072.00	593032.13	4039	correct	fig2_9d10_28px.png	1	0	"B > A"	1	4	2
+4	605701.00	602331.62	3369	correct	fig2_rev_9d10_42px.png	4	1	"B > A"	1	4	4
+2	615219.00	611697.78	3521	correct	fig2_5d6_28px.png	1	0	"B > A"	1	4	2
+4	625405.00	620597.29	4807	correct	fig2_9d10_28px.png	1	1	"B < A"	2	4	4
+2	704215.00	702426.13	1788	correct	fig2_rev_1d2_28px.png	2	0	"A > B"	1	3	2
+4	712379.00	709492.41	2886	correct	fig2_rev_5d6_28px.png	2	1	"A < B"	2	3	4
+2	722429.00	718275.25	4153	correct	fig2_9d10_42px.png	3	0	"A < B"	2	3	2
+4	731103.00	728008.06	3094	correct	fig2_rev_7d8_42px.png	4	1	"A < B"	2	3	4
+2	739647.00	737240.89	2406	correct	fig2_rev_3d4_42px.png	4	0	"A > B"	1	3	2
+4	749414.00	745423.77	3990	correct	fig2_7d8_28px.png	1	1	"A > B"	1	3	4
+4	760091.00	758073.06	2017	correct	fig2_3d4_28px.png	1	1	"A > B"	1	3	4
+2	768412.00	765772.65	2639	correct	fig2_3d4_28px.png	1	0	"A < B"	2	3	2
+2	776772.00	774522.18	2249	correct	fig2_rev_5d6_28px.png	2	0	"A > B"	1	3	2
+4	784698.00	782705.05	1992	correct	fig2_rev_3d4_42px.png	4	1	"A < B"	2	3	4
+4	793763.00	789871.33	3891	correct	fig2_rev_9d10_28px.png	2	1	"A < B"	2	3	4
+2	803367.00	800254.09	3112	correct	fig2_5d6_42px.png	3	0	"A < B"	2	3	2
+2	812194.00	808553.64	3640	correct	fig2_1d2_42px.png	3	0	"A < B"	2	3	2
+4	821481.00	818086.44	3394	correct	fig2_rev_1d2_28px.png	2	1	"A < B"	2	3	4
+4	830852.00	827102.61	3749	correct	fig2_9d10_42px.png	3	1	"A > B"	1	3	4
+2	837167.00	835668.80	1498	correct	fig2_rev_7d8_42px.png	4	0	"A > B"	1	3	2
+2	847804.00	844451.66	3352	correct	fig2_7d8_28px.png	1	0	"A < B"	2	3	2
+4	854955.00	852901.20	2053	correct	fig2_5d6_42px.png	3	1	"A > B"	1	3	4
+4	861909.00	859717.49	2191	correct	fig2_1d2_42px.png	3	1	"A > B"	1	3	4
+2	870053.00	866500.46	3552	correct	fig2_rev_9d10_28px.png	2	0	"A > B"	1	3	2
+2	941042.00	939279.80	1762	correct	fig2_5d6_42px.png	3	0	"A jest niższe niż B."	2	1	2
+4	949528.00	945879.44	3648	correct	fig2_3d4_28px.png	1	1	"A jest wyższe niż B."	1	1	4
+4	958945.00	954628.95	4316	correct	fig2_rev_7d8_42px.png	4	1	"A jest niższe niż B."	2	1	4
+2	966419.00	964478.40	1940	correct	fig2_rev_7d8_42px.png	4	0	"A jest wyższe niż B."	1	1	2
+2	972796.00	971144.70	1651	correct	fig2_rev_3d4_42px.png	4	0	"A jest wyższe niż B."	1	1	2
+4	979014.00	976977.72	2036	correct	fig2_rev_3d4_42px.png	4	1	"A jest niższe niż B."	2	1	4
+4	985612.00	984810.63	801	correct	fig2_rev_1d2_28px.png	2	1	"A jest niższe niż B."	2	1	4
+2	993033.00	990476.98	2556	correct	fig2_7d8_28px.png	1	0	"A jest niższe niż B."	2	1	2
+2	1001392.00	997393.28	3998	correct	fig2_rev_9d10_28px.png	2	0	"A jest wyższe niż B."	1	1	2
+4	1009574.00	1007292.72	2281	correct	fig2_1d2_42px.png	3	1	"A jest wyższe niż B."	1	1	4
+2	1015316.00	1013975.70	1340	correct	fig2_rev_1d2_28px.png	2	0	"A jest wyższe niż B."	1	1	2
+4	1021553.00	1019375.39	2177	correct	fig2_rev_5d6_28px.png	2	1	"A jest niższe niż B."	2	1	4
+2	1028817.00	1026125.03	2691	correct	fig2_rev_5d6_28px.png	2	0	"A jest wyższe niż B."	1	1	2
+2	1037103.00	1033374.63	3728	correct	fig2_9d10_42px.png	3	0	"A jest niższe niż B."	2	1	2
+4	1046026.00	1043790.72	2235	correct	fig2_9d10_42px.png	3	1	"A jest wyższe niż B."	1	1	4
+4	1052670.00	1050773.67	1896	correct	fig2_7d8_28px.png	1	1	"A jest wyższe niż B."	1	1	4
+2	1060832.00	1056940.03	3891	correct	fig2_1d2_42px.png	3	0	"A jest niższe niż B."	2	1	2
+2	1069345.00	1065472.88	3872	correct	fig2_3d4_28px.png	1	0	"A jest niższe niż B."	2	1	2
+4	1077628.00	1074955.67	2672	correct	fig2_5d6_42px.png	3	1	"A jest wyższe niż B."	1	1	4
+4	1085344.00	1082121.96	3222	correct	fig2_rev_9d10_28px.png	2	1	"A jest niższe niż B."	2	1	4
+2	1205719.00	1203348.64	2370	correct	fig2_rev_7d8_28px.png	2	0	"B jest niższe niż A."	2	2	2
+2	1212626.00	1210431.57	2194	correct	fig2_rev_5d6_42px.png	4	0	"B jest niższe niż A."	2	2	2
+4	1219940.00	1217381.19	2558	correct	fig2_rev_5d6_42px.png	4	1	"B jest wyższe niż A."	1	2	4
+4	1228130.00	1225364.09	2765	correct	fig2_9d10_28px.png	1	1	"B jest niższe niż A."	2	2	4
+2	1236487.00	1232730.34	3756	correct	fig2_5d6_28px.png	1	0	"B jest wyższe niż A."	1	2	2
+4	1244405.00	1241396.54	3008	correct	fig2_1d2_28px.png	1	1	"B jest niższe niż A."	2	2	4
+4	1252241.00	1248379.50	3861	correct	fig2_rev_1d2_42px.png	4	1	"B jest wyższe niż A."	1	2	4
+2	1261003.00	1257229.02	3773	correct	fig2_rev_9d10_42px.png	4	0	"B jest niższe niż A."	2	2	2
+4	1268216.00	1265595.22	2620	correct	fig2_5d6_28px.png	1	1	"B jest niższe niż A."	2	2	4
+0	-1	1273711.43	-1	no_response	fig2_7d8_42px.png	3	1	"B jest niższe niż A."	2	2	4
+2	1287686.00	1284194.20	3491	correct	fig2_rev_1d2_42px.png	4	0	"B jest niższe niż A."	2	2	2
+2	1295919.00	1292393.75	3525	correct	fig2_7d8_42px.png	3	0	"B jest wyższe niż A."	1	2	2
+4	1304124.00	1300909.95	3214	correct	fig2_rev_7d8_28px.png	2	1	"B jest wyższe niż A."	1	2	4
+4	1311790.00	1308342.87	3447	correct	fig2_rev_9d10_42px.png	4	1	"B jest wyższe niż A."	1	2	4
+2	1322052.00	1317242.37	4809	correct	fig2_3d4_42px.png	3	0	"B jest wyższe niż A."	1	2	2
+2	1330292.00	1328475.09	1816	correct	fig2_1d2_28px.png	1	0	"B jest wyższe niż A."	1	2	2
+4	1335921.00	1334524.76	1396	correct	fig2_rev_3d4_28px.png	2	1	"B jest wyższe niż A."	1	2	4
+2	1346647.00	1342957.64	3689	correct	fig2_9d10_28px.png	1	0	"B jest wyższe niż A."	1	2	2
+2	1354455.00	1351640.50	2814	correct	fig2_rev_3d4_28px.png	2	0	"B jest niższe niż A."	2	2	2
+4	1363487.00	1361306.62	2180	correct	fig2_3d4_42px.png	3	1	"B jest niższe niż A."	2	2	4
